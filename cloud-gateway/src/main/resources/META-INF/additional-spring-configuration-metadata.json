@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "spring.cloud.config.uri",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.config.uri'"
+  },
+  {
+    "name": "spring.cloud.config.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.config.enabled'"
+  },
+  {
+    "name": "hystrix.command.fallbackcmd.execution.isolation.thread.timeout-in-milliseconds",
+    "type": "java.lang.String",
+    "description": "A description for 'hystrix.command.fallbackcmd.execution.isolation.thread.timeout-in-milliseconds'"
+  }
+]}
